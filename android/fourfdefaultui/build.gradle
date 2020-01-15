@@ -1,0 +1,32 @@
+apply plugin: 'com.android.library'
+
+android {
+    compileSdkVersion 26
+    buildToolsVersion '27.0.3'
+
+    defaultConfig {
+        minSdkVersion 16
+        targetSdkVersion 26
+        versionCode 1
+        versionName "1.8"
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'),'../proguard-rules-global.pro', 'proguard-rules.pro'
+        }
+    }
+}
+
+dependencies {
+    implementation project(':biometricsupport')
+    compileOnly project (':defaultdata')
+    compileOnly project(':sdk')
+    compileOnly project (':core')
+    compileOnly project(':fourfnative')
+    compileOnly project(':fourfimaging')
+    compileOnly project(':analytics')
+    compileOnly 'com.android.support:appcompat-v7:25.4.0'
+    compileOnly 'com.google.android.gms:play-services-analytics:10.2.1'
+}

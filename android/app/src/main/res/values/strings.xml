@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">FourFinger</string>
+
+    <string translatable="false" name="license_is_invalid">Licence is invalid</string>
+    <string translatable="false" name="engine_not_initialise">Engine null: Licence is invalid</string>
+    <string translatable="false" name="failed">Error</string>
+    <string translatable="false" name="liveness_failed">Failed Liveness</string>
+    <string translatable="false" name="cancelled">Cancelado</string>
+    <string translatable="false" name="error">Error:</string>
+    <string translatable="false" name="save_success">Save success</string>
+    <string translatable="false" name="write_fail">Write fail</string>
+</resources>

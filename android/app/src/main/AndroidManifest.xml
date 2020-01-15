@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="bio.insolutions.veridium.entel.piloto">
+
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.CAMERA" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <meta-data
+            android:name="com.veridiumid.sdk.LICENSE"
+            android:value="f4IC1TwSqJyW/T1MKzbLEaZXUZ6Hz4GsXHnNVILBwjA8VUUDoFa2GNOAnC4N1GxuHeNzwlQYkiStz2VOvy9GCHsiZGV2aWNlRmluZ2VycHJpbnQiOiJqZWJpTFRRVk1DNTZhSHBRUWg4dTdjWVAxTTJ4OGhvbzFldGdUMnh6cE9zPSIsImxpY2Vuc2UiOiJPRVlsTVBhQVZjcHlLS2h0VlFRZCtDb3JFVEdFUnRIZElxSlE4WmJBNTJsakN0bDYxR2FZcDVtdWgzRnptSkN4TjJ0Z1VnOFkweUVQTzhOWTgxaHJEM3NpZEhsd1pTSTZJbE5FU3lJc0ltNWhiV1VpT2lKVFJFc2lMQ0pzWVhOMFRXOWthV1pwWldRaU9qRTFOVE01TlRFeE1Ea3NJbU52YlhCaGJubE9ZVzFsSWpvaVJXNTBaV3dnTFNBMFJpQkZlSEJ2Y25RZ1VGSlBSQ0lzSW1OdmJuUmhZM1JKYm1adklqb2lVR0Z5ZEc1bGNpQTlJRWx1YzI5c2RYUnBiMjV6WEc1TmFXZDFaV3dnU0dWeWJtRnVaR1Y2SWl3aVkyOXVkR0ZqZEVWdFlXbHNJam9pYldsbmRXVnNMbWhsY201aGJtUmxla0JwYm5OdmJIVjBhVzl1Y3k1d1pTSXNJbk4xWWt4cFkyVnVjMmx1WjFCMVlteHBZMHRsZVNJNkluTlJjR05LUjNBNVpqZEdTSEJsVmt4cmVIRlBOSEp1Vm05UFdETjRkVmRNV0dzeFdIQXphM1pXWkZrOUlpd2ljM1JoY25SRVlYUmxJam94TlRVek56TXhNakF3TENKbGVIQnBjbUYwYVc5dVJHRjBaU0k2TVRVNE5UYzROVFl3TUN3aVozSmhZMlZGYm1SRVlYUmxJam94TlRnMU9UVTROREF3TENKMWMybHVaMU5CVFV4VWIydGxiaUk2Wm1Gc2MyVXNJblZ6YVc1blJuSmxaVkpCUkVsVlV5STZabUZzYzJVc0luVnphVzVuUVdOMGFYWmxSR2x5WldOMGIzSjVJanBtWVd4elpTd2lZbWx2YkdsaVJtRmpaVVY0Y0c5eWRFVnVZV0pzWldRaU9tWmhiSE5sTENKeWRXNTBhVzFsUlc1MmFYSnZibTFsYm5RaU9uc2ljMlZ5ZG1WeUlqcG1ZV3h6WlN3aVpHVjJhV05sVkdsbFpDSTZabUZzYzJWOUxDSmxibVp2Y21ObElqcDdJbkJoWTJ0aFoyVk9ZVzFsY3lJNld5SmlhVzh1YVc1emIyeDFkR2x2Ym5NdWRtVnlhV1JwZFcwdVpXNTBaV3d1Y0dsc2IzUnZJbDBzSW5ObGNuWmxja05sY25SSVlYTm9aWE1pT2x0ZGZYMD0ifQ=="/>
+        <meta-data
+            android:name="com.veridiumid.sdk.fourf.LICENSE"
+            android:value="YywSy4Ytl5IlCLl2xvF3Th8FdZ7LKal1OB4wtzmcl3/jkzS/z5ALfMXqB0LE5iliruocQNiGKM8+NqsEvmZEAnsiZGV2aWNlRmluZ2VycHJpbnQiOiJqZWJpTFRRVk1DNTZhSHBRUWg4dTdjWVAxTTJ4OGhvbzFldGdUMnh6cE9zPSIsImxpY2Vuc2UiOiI1UEJUeVRRb01JckNYVkcwQzBBODhVdDZpQmFmUzNPN3I1TVVWNiswdzhxTzFOZjl0VHg3cjBoeW1HRDZRZ0hwaXVPNU51SnNDaHZzRlNSZS9RZGdEWHNpZEhsd1pTSTZJa0pKVDB4SlFsTWlMQ0p1WVcxbElqb2lORVlpTENKc1lYTjBUVzlrYVdacFpXUWlPakUxTlRNNU5URXhNRGsxTnpBc0ltTnZiWEJoYm5sT1lXMWxJam9pUlc1MFpXd2dMU0EwUmlCRmVIQnZjblFnVUZKUFJDSXNJbU52Ym5SaFkzUkpibVp2SWpvaVVHRnlkRzVsY2lBOUlFbHVjMjlzZFhScGIyNXpYRzVOYVdkMVpXd2dTR1Z5Ym1GdVpHVjZJaXdpWTI5dWRHRmpkRVZ0WVdsc0lqb2liV2xuZFdWc0xtaGxjbTVoYm1SbGVrQnBibk52YkhWMGFXOXVjeTV3WlNJc0luTjFZa3hwWTJWdWMybHVaMUIxWW14cFkwdGxlU0k2SW5OUmNHTktSM0E1WmpkR1NIQmxWa3hyZUhGUE5ISnVWbTlQV0RONGRWZE1XR3N4V0hBemEzWldaRms5SWl3aWMzUmhjblJFWVhSbElqb3hOVFV6TnpNeE1qQXdNREF3TENKbGVIQnBjbUYwYVc5dVJHRjBaU0k2TVRVNE5UYzROVFl3TURBd01Dd2laM0poWTJWRmJtUkVZWFJsSWpveE5UZzFPVFU0TkRBd01EQXdMQ0oxYzJsdVoxTkJUVXhVYjJ0bGJpSTZabUZzYzJVc0luVnphVzVuUm5KbFpWSkJSRWxWVXlJNlptRnNjMlVzSW5WemFXNW5RV04wYVhabFJHbHlaV04wYjNKNUlqcG1ZV3h6WlN3aVltbHZiR2xpUm1GalpVVjRjRzl5ZEVWdVlXSnNaV1FpT21aaGJITmxMQ0p5ZFc1MGFXMWxSVzUyYVhKdmJtMWxiblFpT25zaWMyVnlkbVZ5SWpwbVlXeHpaU3dpWkdWMmFXTmxWR2xsWkNJNlptRnNjMlY5TENKbVpXRjBkWEpsY3lJNmV5SmlZWE5sSWpwMGNuVmxMQ0p6ZEdWeVpXOU1hWFpsYm1WemN5STZkSEoxWlN3aVpYaHdiM0owSWpwMGNuVmxmU3dpWlc1bWIzSmpaV1JRY21WbVpYSmxibU5sY3lJNmV5SnRZVzVrWVhSdmNubE1hWFpsYm1WemN5STZabUZzYzJWOUxDSjJaWEp6YVc5dUlqb2lOQzRxSW4wPSJ9"/>
+        <meta-data
+            android:name="com.veridiumid.sdk.CONFIG"
+            android:value="com.veridiumid.sdk.core.ManifestConfiguration" />
+
+        <activity android:name="bio.insolutions.veridium.entel.piloto.FourFingerActivity"></activity>
+        <activity
+            android:name="bio.insolutions.veridium.entel.piloto.CustomFourFBiometricsActivity"
+            android:label="4 Fingers"
+            android:screenOrientation="portrait">
+            <meta-data
+                android:name="com.veridiumid.sdk.component.config"
+                android:value="uid=4F,optional=false,validator=com.veridiumid.sdk.fourf.FourFValidator" />
+        </activity>
+    </application>
+
+</manifest>
