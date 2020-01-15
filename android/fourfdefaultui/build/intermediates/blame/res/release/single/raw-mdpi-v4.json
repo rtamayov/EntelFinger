@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "D:\\RepositorioGit\\EntelFingerNativo\\android\\fourfdefaultui\\build\\intermediates\\res\\merged\\release\\raw-mdpi-v4\\animated_liveness.mp4",
+        "source": "D:\\RepositorioGit\\EntelFingerNativo\\android\\fourfdefaultui\\src\\main\\res\\raw-mdpi\\animated_liveness.mp4"
+    },
+    {
+        "merged": "D:\\RepositorioGit\\EntelFingerNativo\\android\\fourfdefaultui\\build\\intermediates\\res\\merged\\release\\raw-mdpi-v4\\animation_thumb.mp4",
+        "source": "D:\\RepositorioGit\\EntelFingerNativo\\android\\fourfdefaultui\\src\\main\\res\\raw-mdpi\\animation_thumb.mp4"
+    },
+    {
+        "merged": "D:\\RepositorioGit\\EntelFingerNativo\\android\\fourfdefaultui\\build\\intermediates\\res\\merged\\release\\raw-mdpi-v4\\animation_liveness_vertical.mp4",
+        "source": "D:\\RepositorioGit\\EntelFingerNativo\\android\\fourfdefaultui\\src\\main\\res\\raw-mdpi\\animation_liveness_vertical.mp4"
+    },
+    {
+        "merged": "D:\\RepositorioGit\\EntelFingerNativo\\android\\fourfdefaultui\\build\\intermediates\\res\\merged\\release\\raw-mdpi-v4\\animation.mp4",
+        "source": "D:\\RepositorioGit\\EntelFingerNativo\\android\\fourfdefaultui\\src\\main\\res\\raw-mdpi\\animation.mp4"
+    },
+    {
+        "merged": "D:\\RepositorioGit\\EntelFingerNativo\\android\\fourfdefaultui\\build\\intermediates\\res\\merged\\release\\raw-mdpi-v4\\individual_finger_animation_android.mp4",
+        "source": "D:\\RepositorioGit\\EntelFingerNativo\\android\\fourfdefaultui\\src\\main\\res\\raw-mdpi\\individual_finger_animation_android.mp4"
+    }
+]

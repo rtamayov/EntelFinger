@@ -1,2 +1,2 @@
-include ':app', ':analytics', ':biometricsupport', ':sdk', ':fourfnative', ':defaultdata', ':veridium-licensing', ':fourfimaging', ':dpuareu', ':core', ':fourfdefaultui'
+include ':app', ':analytics', ':biometricsupport', ':sdk', ':fourfnative', ':defaultdata', ':veridium-licensing', ':fourfimaging', ':dpuareu', ':core', ':fourfdefaultui', ':fourfdefaultui-release'
 rootProject.name='FourFinger'

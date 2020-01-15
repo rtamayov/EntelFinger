@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "D:\\RepositorioGit\\EntelFingerNativo\\android\\fourfdefaultui\\build\\intermediates\\res\\merged\\release\\drawable\\purple_button.xml",
+        "source": "C:\\Users\\rtamayov\\.gradle\\caches\\transforms-1\\files-1.1\\biometricsupport.aar\\7c9d9215c0d9ff34e1844bd23f8ffc6d\\res\\drawable\\purple_button.xml"
+    },
+    {
+        "merged": "D:\\RepositorioGit\\EntelFingerNativo\\android\\fourfdefaultui\\build\\intermediates\\res\\merged\\release\\drawable\\rounded_blue_corners.xml",
+        "source": "D:\\RepositorioGit\\EntelFingerNativo\\android\\fourfdefaultui\\src\\main\\res\\drawable\\rounded_blue_corners.xml"
+    },
+    {
+        "merged": "D:\\RepositorioGit\\EntelFingerNativo\\android\\fourfdefaultui\\build\\intermediates\\res\\merged\\release\\drawable\\button_state_change.xml",
+        "source": "D:\\RepositorioGit\\EntelFingerNativo\\android\\fourfdefaultui\\src\\main\\res\\drawable\\button_state_change.xml"
+    },
+    {
+        "merged": "D:\\RepositorioGit\\EntelFingerNativo\\android\\fourfdefaultui\\build\\intermediates\\res\\merged\\release\\drawable\\button_state_text_color.xml",
+        "source": "D:\\RepositorioGit\\EntelFingerNativo\\android\\fourfdefaultui\\src\\main\\res\\drawable\\button_state_text_color.xml"
+    },
+    {
+        "merged": "D:\\RepositorioGit\\EntelFingerNativo\\android\\fourfdefaultui\\build\\intermediates\\res\\merged\\release\\drawable\\left_right_selector_checkbox.xml",
+        "source": "D:\\RepositorioGit\\EntelFingerNativo\\android\\fourfdefaultui\\src\\main\\res\\drawable\\left_right_selector_checkbox.xml"
+    },
+    {
+        "merged": "D:\\RepositorioGit\\EntelFingerNativo\\android\\fourfdefaultui\\build\\intermediates\\res\\merged\\release\\drawable\\image_border.xml",
+        "source": "D:\\RepositorioGit\\EntelFingerNativo\\android\\fourfdefaultui\\src\\main\\res\\drawable\\image_border.xml"
+    },
+    {
+        "merged": "D:\\RepositorioGit\\EntelFingerNativo\\android\\fourfdefaultui\\build\\intermediates\\res\\merged\\release\\drawable\\rounded_corner_dialog.xml",
+        "source": "D:\\RepositorioGit\\EntelFingerNativo\\android\\fourfdefaultui\\src\\main\\res\\drawable\\rounded_corner_dialog.xml"
+    }
+]

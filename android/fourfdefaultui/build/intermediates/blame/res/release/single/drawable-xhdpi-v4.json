@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "D:\\RepositorioGit\\EntelFingerNativo\\android\\fourfdefaultui\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\guidance_arrow_up.png",
+        "source": "D:\\RepositorioGit\\EntelFingerNativo\\android\\fourfdefaultui\\src\\main\\res\\drawable-xhdpi\\guidance_arrow_up.png"
+    },
+    {
+        "merged": "D:\\RepositorioGit\\EntelFingerNativo\\android\\fourfdefaultui\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\guidance_arrow_right.png",
+        "source": "D:\\RepositorioGit\\EntelFingerNativo\\android\\fourfdefaultui\\src\\main\\res\\drawable-xhdpi\\guidance_arrow_right.png"
+    },
+    {
+        "merged": "D:\\RepositorioGit\\EntelFingerNativo\\android\\fourfdefaultui\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\guidance_arrow_left.png",
+        "source": "D:\\RepositorioGit\\EntelFingerNativo\\android\\fourfdefaultui\\src\\main\\res\\drawable-xhdpi\\guidance_arrow_left.png"
+    },
+    {
+        "merged": "D:\\RepositorioGit\\EntelFingerNativo\\android\\fourfdefaultui\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\guidance_arrow_down.png",
+        "source": "D:\\RepositorioGit\\EntelFingerNativo\\android\\fourfdefaultui\\src\\main\\res\\drawable-xhdpi\\guidance_arrow_down.png"
+    },
+    {
+        "merged": "D:\\RepositorioGit\\EntelFingerNativo\\android\\fourfdefaultui\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\splash_screen.png",
+        "source": "D:\\RepositorioGit\\EntelFingerNativo\\android\\fourfdefaultui\\src\\main\\res\\drawable-xhdpi\\splash_screen.png"
+    }
+]

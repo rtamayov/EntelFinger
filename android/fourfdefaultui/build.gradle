@@ -26,7 +26,6 @@ dependencies {
     compileOnly project (':core')
     compileOnly project(':fourfnative')
     compileOnly project(':fourfimaging')
-    compileOnly project(':analytics')
     compileOnly 'com.android.support:appcompat-v7:25.4.0'
     compileOnly 'com.google.android.gms:play-services-analytics:10.2.1'
 }

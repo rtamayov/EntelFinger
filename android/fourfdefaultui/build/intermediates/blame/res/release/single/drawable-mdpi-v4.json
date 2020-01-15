@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "D:\\RepositorioGit\\EntelFingerNativo\\android\\fourfdefaultui\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\guidance_arrow_left.png",
+        "source": "D:\\RepositorioGit\\EntelFingerNativo\\android\\fourfdefaultui\\src\\main\\res\\drawable-mdpi\\guidance_arrow_left.png"
+    },
+    {
+        "merged": "D:\\RepositorioGit\\EntelFingerNativo\\android\\fourfdefaultui\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\righthand_thumb.png",
+        "source": "D:\\RepositorioGit\\EntelFingerNativo\\android\\fourfdefaultui\\src\\main\\res\\drawable-mdpi\\righthand_thumb.png"
+    },
+    {
+        "merged": "D:\\RepositorioGit\\EntelFingerNativo\\android\\fourfdefaultui\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\guidance_arrow_right.png",
+        "source": "D:\\RepositorioGit\\EntelFingerNativo\\android\\fourfdefaultui\\src\\main\\res\\drawable-mdpi\\guidance_arrow_right.png"
+    },
+    {
+        "merged": "D:\\RepositorioGit\\EntelFingerNativo\\android\\fourfdefaultui\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\guidance_arrow_down.png",
+        "source": "D:\\RepositorioGit\\EntelFingerNativo\\android\\fourfdefaultui\\src\\main\\res\\drawable-mdpi\\guidance_arrow_down.png"
+    },
+    {
+        "merged": "D:\\RepositorioGit\\EntelFingerNativo\\android\\fourfdefaultui\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\lefthand_thumb_instructional.png",
+        "source": "D:\\RepositorioGit\\EntelFingerNativo\\android\\fourfdefaultui\\src\\main\\res\\drawable-mdpi\\lefthand_thumb_instructional.png"
+    },
+    {
+        "merged": "D:\\RepositorioGit\\EntelFingerNativo\\android\\fourfdefaultui\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\splash_screen.png",
+        "source": "D:\\RepositorioGit\\EntelFingerNativo\\android\\fourfdefaultui\\src\\main\\res\\drawable-mdpi\\splash_screen.png"
+    },
+    {
+        "merged": "D:\\RepositorioGit\\EntelFingerNativo\\android\\fourfdefaultui\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\guidance_arrow_up.png",
+        "source": "D:\\RepositorioGit\\EntelFingerNativo\\android\\fourfdefaultui\\src\\main\\res\\drawable-mdpi\\guidance_arrow_up.png"
+    }
+]

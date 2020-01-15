@@ -33,5 +33,5 @@ dependencies {
     implementation project(path: ':analytics')
     implementation project(path: ':biometricsupport')
     implementation project(path: ':dpuareu')
-    implementation project(path: ':fourfdefaultui')
+    implementation project(path: ':fourfdefaultui-release')
 }
