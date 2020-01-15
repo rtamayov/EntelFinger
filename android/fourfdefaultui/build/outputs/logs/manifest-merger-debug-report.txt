@@ -1,61 +1,61 @@
 -- Merging decision tree log ---
 manifest
-ADDED from D:\RepositorioGit\EntelFinger\android\fourfdefaultui\src\main\AndroidManifest.xml:2:1-17:12
-INJECTED from D:\RepositorioGit\EntelFinger\android\fourfdefaultui\src\main\AndroidManifest.xml:2:1-17:12
-INJECTED from D:\RepositorioGit\EntelFinger\android\fourfdefaultui\src\main\AndroidManifest.xml:2:1-17:12
-INJECTED from D:\RepositorioGit\EntelFinger\android\fourfdefaultui\src\main\AndroidManifest.xml:2:1-17:12
-INJECTED from D:\RepositorioGit\EntelFinger\android\fourfdefaultui\src\main\AndroidManifest.xml:2:1-17:12
-INJECTED from D:\RepositorioGit\EntelFinger\android\fourfdefaultui\src\main\AndroidManifest.xml:2:1-17:12
-INJECTED from D:\RepositorioGit\EntelFinger\android\fourfdefaultui\src\main\AndroidManifest.xml:2:1-17:12
+ADDED from D:\RepositorioGit\EntelFingerNativo\android\fourfdefaultui\src\main\AndroidManifest.xml:2:1-17:12
+INJECTED from D:\RepositorioGit\EntelFingerNativo\android\fourfdefaultui\src\main\AndroidManifest.xml:2:1-17:12
+INJECTED from D:\RepositorioGit\EntelFingerNativo\android\fourfdefaultui\src\main\AndroidManifest.xml:2:1-17:12
+INJECTED from D:\RepositorioGit\EntelFingerNativo\android\fourfdefaultui\src\main\AndroidManifest.xml:2:1-17:12
+INJECTED from D:\RepositorioGit\EntelFingerNativo\android\fourfdefaultui\src\main\AndroidManifest.xml:2:1-17:12
+INJECTED from D:\RepositorioGit\EntelFingerNativo\android\fourfdefaultui\src\main\AndroidManifest.xml:2:1-17:12
+INJECTED from D:\RepositorioGit\EntelFingerNativo\android\fourfdefaultui\src\main\AndroidManifest.xml:2:1-17:12
 	package
-		ADDED from D:\RepositorioGit\EntelFinger\android\fourfdefaultui\src\main\AndroidManifest.xml:3:5-49
-		INJECTED from D:\RepositorioGit\EntelFinger\android\fourfdefaultui\src\main\AndroidManifest.xml
-		INJECTED from D:\RepositorioGit\EntelFinger\android\fourfdefaultui\src\main\AndroidManifest.xml
+		ADDED from D:\RepositorioGit\EntelFingerNativo\android\fourfdefaultui\src\main\AndroidManifest.xml:3:5-49
+		INJECTED from D:\RepositorioGit\EntelFingerNativo\android\fourfdefaultui\src\main\AndroidManifest.xml
+		INJECTED from D:\RepositorioGit\EntelFingerNativo\android\fourfdefaultui\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from D:\RepositorioGit\EntelFinger\android\fourfdefaultui\src\main\AndroidManifest.xml
-		ADDED from D:\RepositorioGit\EntelFinger\android\fourfdefaultui\src\main\AndroidManifest.xml:2:1-17:12
-		INJECTED from D:\RepositorioGit\EntelFinger\android\fourfdefaultui\src\main\AndroidManifest.xml
+		INJECTED from D:\RepositorioGit\EntelFingerNativo\android\fourfdefaultui\src\main\AndroidManifest.xml
+		ADDED from D:\RepositorioGit\EntelFingerNativo\android\fourfdefaultui\src\main\AndroidManifest.xml:2:1-17:12
+		INJECTED from D:\RepositorioGit\EntelFingerNativo\android\fourfdefaultui\src\main\AndroidManifest.xml
 	android:versionCode
-		INJECTED from D:\RepositorioGit\EntelFinger\android\fourfdefaultui\src\main\AndroidManifest.xml
-		ADDED from D:\RepositorioGit\EntelFinger\android\fourfdefaultui\src\main\AndroidManifest.xml:2:1-17:12
-		INJECTED from D:\RepositorioGit\EntelFinger\android\fourfdefaultui\src\main\AndroidManifest.xml
+		INJECTED from D:\RepositorioGit\EntelFingerNativo\android\fourfdefaultui\src\main\AndroidManifest.xml
+		ADDED from D:\RepositorioGit\EntelFingerNativo\android\fourfdefaultui\src\main\AndroidManifest.xml:2:1-17:12
+		INJECTED from D:\RepositorioGit\EntelFingerNativo\android\fourfdefaultui\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from D:\RepositorioGit\EntelFinger\android\fourfdefaultui\src\main\AndroidManifest.xml:2:11-69
+		ADDED from D:\RepositorioGit\EntelFingerNativo\android\fourfdefaultui\src\main\AndroidManifest.xml:2:11-69
 uses-permission#android.permission.INTERNET
-ADDED from D:\RepositorioGit\EntelFinger\android\fourfdefaultui\src\main\AndroidManifest.xml:5:5-66
+ADDED from D:\RepositorioGit\EntelFingerNativo\android\fourfdefaultui\src\main\AndroidManifest.xml:5:5-66
 	android:name
-		ADDED from D:\RepositorioGit\EntelFinger\android\fourfdefaultui\src\main\AndroidManifest.xml:5:22-64
+		ADDED from D:\RepositorioGit\EntelFingerNativo\android\fourfdefaultui\src\main\AndroidManifest.xml:5:22-64
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from D:\RepositorioGit\EntelFinger\android\fourfdefaultui\src\main\AndroidManifest.xml:6:5-78
+ADDED from D:\RepositorioGit\EntelFingerNativo\android\fourfdefaultui\src\main\AndroidManifest.xml:6:5-78
 	android:name
-		ADDED from D:\RepositorioGit\EntelFinger\android\fourfdefaultui\src\main\AndroidManifest.xml:6:22-76
+		ADDED from D:\RepositorioGit\EntelFingerNativo\android\fourfdefaultui\src\main\AndroidManifest.xml:6:22-76
 uses-permission#android.permission.VIBRATE
-ADDED from D:\RepositorioGit\EntelFinger\android\fourfdefaultui\src\main\AndroidManifest.xml:7:5-66
+ADDED from D:\RepositorioGit\EntelFingerNativo\android\fourfdefaultui\src\main\AndroidManifest.xml:7:5-66
 	android:name
-		ADDED from D:\RepositorioGit\EntelFinger\android\fourfdefaultui\src\main\AndroidManifest.xml:7:22-63
+		ADDED from D:\RepositorioGit\EntelFingerNativo\android\fourfdefaultui\src\main\AndroidManifest.xml:7:22-63
 application
-ADDED from D:\RepositorioGit\EntelFinger\android\fourfdefaultui\src\main\AndroidManifest.xml:9:5-15:19
+ADDED from D:\RepositorioGit\EntelFingerNativo\android\fourfdefaultui\src\main\AndroidManifest.xml:9:5-15:19
 	android:supportsRtl
-		ADDED from D:\RepositorioGit\EntelFinger\android\fourfdefaultui\src\main\AndroidManifest.xml:11:9-35
+		ADDED from D:\RepositorioGit\EntelFingerNativo\android\fourfdefaultui\src\main\AndroidManifest.xml:11:9-35
 	android:label
-		ADDED from D:\RepositorioGit\EntelFinger\android\fourfdefaultui\src\main\AndroidManifest.xml:10:9-41
+		ADDED from D:\RepositorioGit\EntelFingerNativo\android\fourfdefaultui\src\main\AndroidManifest.xml:10:9-41
 meta-data#preloaded_fonts
-ADDED from D:\RepositorioGit\EntelFinger\android\fourfdefaultui\src\main\AndroidManifest.xml:12:9-14:57
+ADDED from D:\RepositorioGit\EntelFingerNativo\android\fourfdefaultui\src\main\AndroidManifest.xml:12:9-14:57
 	android:resource
-		ADDED from D:\RepositorioGit\EntelFinger\android\fourfdefaultui\src\main\AndroidManifest.xml:14:13-54
+		ADDED from D:\RepositorioGit\EntelFingerNativo\android\fourfdefaultui\src\main\AndroidManifest.xml:14:13-54
 	android:name
-		ADDED from D:\RepositorioGit\EntelFinger\android\fourfdefaultui\src\main\AndroidManifest.xml:13:13-43
+		ADDED from D:\RepositorioGit\EntelFingerNativo\android\fourfdefaultui\src\main\AndroidManifest.xml:13:13-43
 uses-sdk
-INJECTED from D:\RepositorioGit\EntelFinger\android\fourfdefaultui\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from D:\RepositorioGit\EntelFinger\android\fourfdefaultui\src\main\AndroidManifest.xml
-INJECTED from D:\RepositorioGit\EntelFinger\android\fourfdefaultui\src\main\AndroidManifest.xml
-INJECTED from D:\RepositorioGit\EntelFinger\android\fourfdefaultui\src\main\AndroidManifest.xml
-INJECTED from D:\RepositorioGit\EntelFinger\android\fourfdefaultui\src\main\AndroidManifest.xml
+INJECTED from D:\RepositorioGit\EntelFingerNativo\android\fourfdefaultui\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\RepositorioGit\EntelFingerNativo\android\fourfdefaultui\src\main\AndroidManifest.xml
+INJECTED from D:\RepositorioGit\EntelFingerNativo\android\fourfdefaultui\src\main\AndroidManifest.xml
+INJECTED from D:\RepositorioGit\EntelFingerNativo\android\fourfdefaultui\src\main\AndroidManifest.xml
+INJECTED from D:\RepositorioGit\EntelFingerNativo\android\fourfdefaultui\src\main\AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from D:\RepositorioGit\EntelFinger\android\fourfdefaultui\src\main\AndroidManifest.xml
-		ADDED from D:\RepositorioGit\EntelFinger\android\fourfdefaultui\src\main\AndroidManifest.xml
-		INJECTED from D:\RepositorioGit\EntelFinger\android\fourfdefaultui\src\main\AndroidManifest.xml
+		INJECTED from D:\RepositorioGit\EntelFingerNativo\android\fourfdefaultui\src\main\AndroidManifest.xml
+		ADDED from D:\RepositorioGit\EntelFingerNativo\android\fourfdefaultui\src\main\AndroidManifest.xml
+		INJECTED from D:\RepositorioGit\EntelFingerNativo\android\fourfdefaultui\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from D:\RepositorioGit\EntelFinger\android\fourfdefaultui\src\main\AndroidManifest.xml
-		ADDED from D:\RepositorioGit\EntelFinger\android\fourfdefaultui\src\main\AndroidManifest.xml
-		INJECTED from D:\RepositorioGit\EntelFinger\android\fourfdefaultui\src\main\AndroidManifest.xml
+		INJECTED from D:\RepositorioGit\EntelFingerNativo\android\fourfdefaultui\src\main\AndroidManifest.xml
+		ADDED from D:\RepositorioGit\EntelFingerNativo\android\fourfdefaultui\src\main\AndroidManifest.xml
+		INJECTED from D:\RepositorioGit\EntelFingerNativo\android\fourfdefaultui\src\main\AndroidManifest.xml
